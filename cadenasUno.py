@@ -14,7 +14,7 @@ def second_option():
 def third_option():
     word = input("Escribe clave -> ")
     character = "x"
-    for i in range(10):
+    for i in range(0,len(word)):
      word = word.replace(str(i), character)
     print(word)
 
