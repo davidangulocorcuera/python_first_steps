@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="362031cb-5207-4328-89ce-4f9e659c1ea3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cadenasTres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadenasCinco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadenasUno.py" beforeDir="false" afterPath="$PROJECT_DIR$/cadenasUno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadenasCuatro.py" beforeDir="false" afterPath="$PROJECT_DIR$/cadenasCuatro.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tareaTuplasPOO$cadenasTres.coverage" NAME="cadenasTres Coverage Results" MODIFIED="1548788532923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tareaTuplasPOO$cadenasTres.coverage" NAME="cadenasTres Coverage Results" MODIFIED="1548789133113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tareaTuplasPOO$cadenasUno.coverage" NAME="cadenasUno Coverage Results" MODIFIED="1548546902957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tareaTuplasPOO$cadenasDos.coverage" NAME="cadenasDos Coverage Results" MODIFIED="1548547108038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tareaTuplasPOO$cadenasCuatro.coverage" NAME="cadenasCuatro Coverage Results" MODIFIED="1548792387676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tareaTuplasPOO$cadenasCinco.coverage" NAME="cadenasCinco Coverage Results" MODIFIED="1548793156035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -23,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/cadenasUno.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="32" />
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -37,11 +39,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cadenasTres.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cadenasCuatro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cadenasCinco.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -64,6 +84,9 @@
         <option value="$PROJECT_DIR$/cadenasDos.py" />
         <option value="$PROJECT_DIR$/cadenasUno.py" />
         <option value="$PROJECT_DIR$/cadenasTres.py" />
+        <option value="$PROJECT_DIR$/venv/cadenasCuatro.py" />
+        <option value="$PROJECT_DIR$/cadenasCuatro.py" />
+        <option value="$PROJECT_DIR$/cadenasCinco.py" />
       </list>
     </option>
   </component>
@@ -106,7 +129,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cadenasTres">
+  <component name="RunManager" selected="Python.cadenasCinco">
+    <configuration name="cadenasCinco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tareaTuplasPOO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cadenasCinco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cadenasCuatro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tareaTuplasPOO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cadenasCuatro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cadenasDos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tareaTuplasPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,6 +242,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cadenasCinco" />
+        <item itemvalue="Python.cadenasCuatro" />
         <item itemvalue="Python.cadenasTres" />
         <item itemvalue="Python.cadenasDos" />
         <item itemvalue="Python.cadenasUno" />
@@ -193,7 +262,7 @@
       <updated>1548406304325</updated>
       <workItem from="1548406307760" duration="5175000" />
       <workItem from="1548546422960" duration="2484000" />
-      <workItem from="1548787027114" duration="1446000" />
+      <workItem from="1548787027114" duration="4399000" />
     </task>
     <task id="LOCAL-00001" summary="ejercicio 2">
       <created>1548547166769</created>
@@ -202,14 +271,29 @@
       <option name="project" value="LOCAL" />
       <updated>1548547166770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3 terminado">
+      <created>1548788556058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548788556058</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4 terminado">
+      <created>1548791895507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548791895507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9105000" />
+    <option name="totallyTimeSpent" value="12058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -239,9 +323,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 2" />
+    <MESSAGE value="3 terminado" />
+    <MESSAGE value="4 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 terminado" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/cadenasCuatro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadenasTres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cadenasDos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -252,14 +348,21 @@
     <entry file="file://$PROJECT_DIR$/cadenasUno.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="32" />
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cadenasTres.py">
+    <entry file="file://$PROJECT_DIR$/cadenasCuatro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadenasCinco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
         </state>
       </provider>
     </entry>
