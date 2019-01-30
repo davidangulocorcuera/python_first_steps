@@ -12,6 +12,6 @@ class Sacacorchos:
         botella.isOpen = True
         corchoSacado = corcho.bodega
 
-        
+
 def limpiar():
     Botella.corcho = Corcho()
